@@ -171,7 +171,7 @@ nav ul li:hover, nav ul li.active {
   width:100%;
   min-height:300px;
   padding:210px 0;
-  background:url(img/bgnoise.png);
+  /*background:url(img/bgnoise.png);*/
   /* generated noise from noisetexturegenerator.com */
 }
 
@@ -188,7 +188,7 @@ nav ul li:hover, nav ul li.active {
   background-color:black;
   background-image:none;
 }
-#footer .container p { font-size:13px; margin:0; color: black }
+#footer .container p { font-size:13px; margin:0; color: black; min-width:800px; }
 
 .subtlecircle {
   text-align:center;
