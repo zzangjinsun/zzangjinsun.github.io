@@ -1,0 +1,6 @@
+@article{cho2017retarget,
+    title={Weakly- and Self-Supervised Learning for Content-Aware Deep Image Retargeting},
+    author={Cho, Donghyeon, Park, Jinsun, Oh, Tae-Hyun, Tai, Yu-Wing and Kweon, In So},
+    journal={arXiv preprint arXiv:1708.02731},
+    year={2017}
+}
